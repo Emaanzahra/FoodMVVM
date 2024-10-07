@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/home_1391_svgrepo_com"/>
+    <item
+        android:id="@+id/favoriteFragment"
+        android:title="Favorite"
+        android:icon="@drawable/heart_svgrepo_com"/>
+    <item
+        android:id="@+id/categoryFragment"
+        android:title="Categories"
+        android:icon="@drawable/category_solid_svgrepo_com"/>
+</menu>
